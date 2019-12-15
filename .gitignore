@@ -189,3 +189,6 @@ fabric.properties
 # VS Code Files
 .vscode
 .mongoSettings
+
+# WebStorm Project Configuration Files
+.idea
